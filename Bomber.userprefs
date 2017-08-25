@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scences\Game\Scripts\Boundary.js">
+    <Files>
+      <File FileName="Assets\Scences\Game\Scripts\AudienceBehaviour.js" Line="1" Column="1" />
+      <File FileName="Assets\Scences\Game\Scripts\Control.js" Line="1" Column="1" />
+      <File FileName="Assets\Scences\Game\Players\Player1\Player1Bombing.js" Line="1" Column="1" />
+      <File FileName="Assets\Scences\Game\Players\Player2\Player2Bombing.js" Line="1" Column="1" />
+      <File FileName="Assets\Scences\Game\Players\Player3\Player3Bombing.js" Line="1" Column="1" />
+      <File FileName="Assets\Scences\Game\Players\Player4\Player4Bombing.js" Line="1" Column="1" />
+      <File FileName="Assets\Scences\Game\Scripts\Boundary.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: b5af417e98dc5574396d210df25a8649
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Bomb: {fileID: 5400000, guid: feb05bdb03b9a914ca1c5eff1ff8fd06, type: 2}
+  - shooter: {fileID: 400088, guid: 651a1ad55509a6f4b9547fe8d2aa8a31, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
